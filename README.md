@@ -3,7 +3,7 @@
 
 Collection of 114 stamps of the eight years war of Iran - Iraq.
 
-## **Table of Contents**
+## **Table of Content**
 
 1. [Artifact](https://github.com/sachavanalfen/transcoding#Artifact)
 2. [IISG](https://github.com/sachavanalfen/transcoding#IISG)
