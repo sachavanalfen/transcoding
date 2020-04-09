@@ -1,9 +1,8 @@
-# transcoding
 # Collection: 114 stamps of the eight years war of Iran - Iraq.
 
 Collection of 114 stamps of the eight years war of Iran - Iraq.
 
-## **Table of Content**
+## **Table of Contents**
 
 1. [Artifact](https://github.com/sachavanalfen/transcoding#Artifact)
 2. [IISG](https://github.com/sachavanalfen/transcoding#IISG)
@@ -18,6 +17,7 @@ Collection of 114 stamps of the eight years war of Iran - Iraq.
 7. [Preservation of the artifact](https://github.com/sachavanalfen/transcoding#Preservation-of-the-artifact)
     - [Concepts](https://github.com/sachavanalfen/transcoding#Concepts)
     - [Experiments of transcoding](https://github.com/sachavanalfen/transcoding#Experiments-of-transcoding)
+    - [Transcoding](https://github.com/sachavanalfen/transcoding#Transcoding)
 8. [Notes](https://github.com/sachavanalfen/transcoding#Notes)
     - [Outcome references](https://github.com/sachavanalfen/transcoding#Outcome-references)
     - [Code references](https://github.com/sachavanalfen/transcoding#Code-references)
@@ -64,7 +64,13 @@ Images of artifact:
 
 ![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1436.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1436.jpg)
 
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1449.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1449.jpg)
+
 ![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1438.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1438.jpg)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1450.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1450.jpg)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1451.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/IMG_1451.jpg)
 
 ### Related artifacts in IISG
 
@@ -251,6 +257,81 @@ And I made sketches of how I want my website to work/look:
 
 ![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Website_sketch7.jpg](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Website_sketch7.jpg)
 
+## Transcoding
+
+1. Digital archive website: 
+2. **Text only stamps (English):** Here I removed all the images and left only text. All of the text in Farsi I translated to English.
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation1.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation1.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation2.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation2.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation3.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation3.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation4.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation4.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation5.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Translation5.png)
+
+1. **Tool to create new images from elements of stamps:** I want to create a sort of drawing tool with which you can create new images/posters. I take shapes/elements out of the collection of stamps I have from the archive. As a user you can drag the shapes, change colours/size and make new compositions.
+
+Example: paint
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%202.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%202.png)
+
+Quick sketch:
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Drawing_tool_sketch.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Drawing_tool_sketch.png)
+
+4. Collecting album
+
+Collecting stamps is becoming a bit old school. What are modern ways of collecting?
+
+Analogue
+
+**Sticker albums (supermarkets):** Both a postage stamp and a sticker you stick. Including extra information/texts on the images being visualized. Both a marketing strategy but also something you can learn from
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%203.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%203.png)
+
+Digital
+
+**Collecting game cards:** For multiple online card games you need to buy/collect card to make your deck stronger (heartstone)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%204.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%204.png)
+
+5. Making stamp more neutral/subjective or more peacefull.
+
+What happens if I remove all the guns from an image. How does this change the image?
+
+If I make a lot of these they can become a book or be somehow integrated in my website.
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/116.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/116.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/116.21.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/116.21.png)
+
+Reference:
+
+Subjective atlas
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%205.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%205.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%206.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%206.png)
+
+6. Bandana/Tulip,Fist icon
+
+While I was making filters for the visual aspect they come back a lot in the stamps, I noticed that the Bandana and the Tulip,Fist icon appear a lot. So these are two thing I also might want to do something with but I am not sure yet what this could be…
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/43.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/43.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/46.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/46.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/50.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/50.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/51.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/51.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/91.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/91.png)
+
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/94.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/94.png)
+
 ## Notes
 
 **Group talk notes 20-02**
@@ -302,11 +383,11 @@ And I made sketches of how I want my website to work/look:
 
 **Heartbeat Iran:** Every spread not only aims at presenting this duality, contrast or similarity, but also relates to corresponding images elsewhere in the book (as depicted on page 72 and 73). Crosslinks based on descriptive keywords (tags) allow for contextual searching and browsing. In this sense, Heartbeat Iran should be seen as a publication that reconsiders the linear form of a book and makes a first step towards a dynamic network structure comparable to Youtube. With this book the artists pay tribute to the traditional Persian hospitality and even try to counteract efforts to demonize Iran in the media.
 
-![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%202.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%202.png)
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%207.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%207.png)
 
-![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%203.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%203.png)
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%208.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%208.png)
 
-![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%204.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%204.png)
+![Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%209.png](Collection%20114%20stamps%20of%20the%20eight%20years%20war%20of%20Ir/Untitled%209.png)
 
 **Catalogtree:** This is the website of Catalogtree. Catalogtree is a multidisciplinary design studio based in Arnhem (NL) and Berlin (DE). It was founded in 2001 by Daniel Gross and Joris Maltha
 
