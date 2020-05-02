@@ -42,7 +42,7 @@ Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an expl
 
 # **Research**
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+My research consists of background information on the collection and related artefacts at the IISG. I tried to find as much information on the IISG website on the topic as I could. I also researched into the stamp as a political messenger and made comparisons to stamps from other countries. When I was done with that I started to look at the stamp itself; its use right now and in the future. 
 
 ## Background information
 
@@ -268,7 +268,7 @@ Complete website:
 
 ### **Outcome Links**
 
-(link website)
+[Website](https://github.com/sachavanalfen/transcoding/web/index.html)
 
 # **Conclusion**
 
