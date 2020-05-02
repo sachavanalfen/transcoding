@@ -9,17 +9,11 @@
 1. [Artefact](https://github.com/sachavanalfen/transcoding#Artefact)
     1. [Metadata](https://github.com/sachavanalfen/transcoding#Metadata)
 2. [Research](https://github.com/sachavanalfen/transcoding#Research-h1)
-
-         1. [Background information](https://github.com/sachavanalfen/transcoding#Background-information)
-
-         2. [Related artefacts at the IISG](https://github.com/sachavanalfen/transcoding#Related-artefacts-at-the-IISG)
-
-         3. [The stamp as political messenger](https://github.com/sachavanalfen/transcoding#The-stamp-as-political-messenger)
-
-         4. [The stamp in contemporary context](https://github.com/sachavanalfen/transcoding#The-stamp-in-contemporary-context)
-
-         5. [The future of the stamp](https://github.com/sachavanalfen/transcoding#Future-of-the-stamp)
-
+    1. [Background information](https://github.com/sachavanalfen/transcoding#Background-information)
+    2. [Related artefacts at the IISG](https://github.com/sachavanalfen/transcoding#Related-artefacts-at-the-IISG)
+    3. [The stamp as political messenger](https://github.com/sachavanalfen/transcoding#The-stamp-as-political-messenger)
+    4. [The stamp in contemporary context](https://github.com/sachavanalfen/transcoding#The-stamp-in-contemporary-context)
+    5. [The future of the stamp](https://github.com/sachavanalfen/transcoding#The-future-of-the-stamp) 
 1. [Transcoding](https://github.com/IMD-Y3-2020/Example#Transcoding)
     1. [Transcoding Tool](https://github.com/sachavanalfen/transcoding#Transcoding-tool)
     2. [Transcoding No. 1](https://github.com/sachavanalfen/transcoding#Transcoding-no-1)
@@ -35,7 +29,16 @@ Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an expl
 
 ## **Metadata**
 
-[Untitled](Untitled/Untitled%20Database.csv)
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
+| **Physical Description** | Velvet covered book including 114 stamps 
+| **Type** | Visual Documents
+| **Medium** | Book
+| **Materials** | Paper, Velvet
+| **Date** | 1980-1988
+| **Published** | 2004
+|![Untitled/IMG_1435.jpg](Untitled/IMG_1435.jpg)| Collection of 114 stamps of the eight years war of Iran - Iraq, bundled in a green velvet album(+/-A5) with an embroidered emblem of the Revolutionary Guard. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps. 
 
 # **Research**
 
