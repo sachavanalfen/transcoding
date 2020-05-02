@@ -31,7 +31,7 @@ Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an expl
 
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
+**IISG Call Number** | [IISG BG T2/547](https://search.iisg.amsterdam/Record/1116667)
 | **Physical Description** | Velvet covered book including 114 stamps 
 | **Type** | Visual Documents
 | **Medium** | Book
@@ -50,7 +50,7 @@ After a series of political and border conflicts between the two neighbouring co
 
 The eight year long Iran - Iraq war was the bloodiest in its kind and most destructive tiresome war during the 4th quarter of the 20th century which resulted in hundreds of thousands of casualties, disabled (still no precise statistics are available), and huge financial losses. 
 
-During the war the Islamic Republic of Iran published a series of postal stamps related to the war, and used them to show the logic of the war and to attract public support. The islamic Republic of Iran printed a lot of stamps during the Iran - Iraq war. The stamps of the Iran - Iraq war period shows the history and miser ability of war in a miracle way. Turning pages of these collections in fact shows the pictorial history pages of the war is being seen. The collection of Iran - Iraq war stamps contains 114 pieces which were printed and published by "the organization for preserving and publishing of relics and values of the Holy Defense Army" inform.[[1]](https://github.com/sachavanalfen/transcoding#footnote-1)
+During the war the Islamic Republic of Iran published a series of postal stamps related to the war, and used them to show the logic of the war and to attract public support. The islamic Republic of Iran printed a lot of stamps during the Iran - Iraq war. The stamps of the Iran - Iraq war period shows the history and miser ability of war in a miracle way. Turning pages of these collections in fact shows the pictorial history pages of the war is being seen. The collection of Iran - Iraq war stamps contains 114 pieces which were printed and published by "the organization for preserving and publishing of relics and values of the Holy Defense Army" inform.<sup>[[1]](#footnote-1)</sup>
 
 ![Untitled/README_IMG.png](Untitled/README_IMG.png)
 
@@ -68,9 +68,9 @@ Before doing more research outside of the IISG, I wanted to find out first what 
 
 For people in Iran, postage stamps are a reminder of the control the government has over their identity, their culture and the interpretation of their history. The current postage stamps used in Iran symbolise the country after its 1979 Islamic revolution. After it overthrew the Persian monarchy, Iran became an authoritarian country with an uncompromising version of Islam at its core.
 
-But there is more to the country than its post-revolution history. For Iranians who left their homes during the 1979 Islamic revolution and couldn’t go back, the stamps on the letters they received from their families in Iran became a window to the life in Iran.[[2]](https://github.com/sachavanalfen/transcoding#footnote-2)
+But there is more to the country than its post-revolution history. For Iranians who left their homes during the 1979 Islamic revolution and couldn’t go back, the stamps on the letters they received from their families in Iran became a window to the life in Iran.<sup>[[2]](#footnote-2)</sup>
 
-Interesting article about Ali Mobassar;s Iranian stamp collection: *Stamps of a Revolution: Ali Mobasser's Iranian stamp collection and incredible family story.* [[3]](https://github.com/sachavanalfen/transcoding#footnote-3)
+Interesting article about Ali Mobassar;s Iranian stamp collection: *Stamps of a Revolution: Ali Mobasser's Iranian stamp collection and incredible family story.* <sup>[[3]](#footnote-3)</sup>
 
 [Stamps of a Revolution: Ali Mobasser's Iranian stamp collection and incredible family story](https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218)
 
@@ -78,7 +78,7 @@ Interesting article about Ali Mobassar;s Iranian stamp collection: *Stamps of a 
 
 To continue my research I though it could be interesting to look at other countries and their stamps. Are there other countries that published such political stamps? In what kind of countries did this happen most often?
 
-China, Russia and East Germany are or were communist regimes. The totalitarian states most often uses postage stamps as potent messengers of policy. Established democratic states do not send over political messages. [[4]](https://github.com/sachavanalfen/transcoding#footnote-4)
+China, Russia and East Germany are or were communist regimes. The totalitarian states most often uses postage stamps as potent messengers of policy. Established democratic states do not send over political messages. <sup>[[4]](#footnote-4)</sup>
 
 ![Untitled/README_IMG15.png](Untitled/README_IMG15.png)
 
@@ -90,15 +90,15 @@ China, Russia and East Germany are or were communist regimes. The totalitarian s
 
 **4:** DDR, 1959. Tenth anniversary of the German Democratic Republic.
 
-[[4]](https://github.com/sachavanalfen/transcoding#footnote-4)
+<sup>[[4]](#footnote-4)</sup>
 
 Postal Propaganda of the Third Reich:
 
-"For it is certain that the images and messages seen by Germans on their stamps, postcards and postmarks did have an incredible impact upon shaping public perceptions. Their sheer volume alone undoubtedly made them as important as almost any other medium (Moore, 2003, p. 136)."[...] [[4]](https://github.com/sachavanalfen/transcoding#footnote-4)
+"For it is certain that the images and messages seen by Germans on their stamps, postcards and postmarks did have an incredible impact upon shaping public perceptions. Their sheer volume alone undoubtedly made them as important as almost any other medium (Moore, 2003, p. 136)."[...] <sup>[[4]](#footnote-4)</sup>
 
 ## The stamp in contemporary context
 
-Nowadays the stamp is getting used less and less due to Email and new techniques. One example that is used nowadays to replace the stamp is the stamp code. The stamp code is a nine digit and letter code. Buy the stamp code easily online and write it on your envelope. [[5]](https://github.com/sachavanalfen/transcoding#footnote-5)
+Nowadays the stamp is getting used less and less due to Email and new techniques. One example that is used nowadays to replace the stamp is the stamp code. The stamp code is a nine digit and letter code. Buy the stamp code easily online and write it on your envelope. <sup>[[5]](#footnote-5)</sup>
 
 [Postage and stamps](https://www.postnl.nl/en/mail-and-parcels/mail/postage-and-stamps/)
 
@@ -110,7 +110,7 @@ What the future of the postage stamp will be, is something I can't answer. What 
 
 An interesting project I found out about is called Signet. Signet created by Ziba, is a proposal that envisions how we might improve upon snail mail:
 
-Madden's team created Signet, a system that could radically overhaul how we use the US Postal Service. At its core, it is a digital stamp and an app. If you want to send a parcel, you'd simply stamp it with a device that uses a laser to etch it with your name and a unique identifying pattern. After that, the USPS would pick up your package; from there, the app would prompt you to provide the name of the person you're trying to reach. Don't know their address? No problem: You could provide it in the app, or the service would ping the recipient on their phone, requesting info about to send the package—or defaulting to any address they might already have listed in the app. Once the addressee is entered and the package arrives at a sorting center, it's re-stamped with the addressee's name and another unique identifying pattern.[[6]](https://github.com/sachavanalfen/transcoding#footnote-6)
+Madden's team created Signet, a system that could radically overhaul how we use the US Postal Service. At its core, it is a digital stamp and an app. If you want to send a parcel, you'd simply stamp it with a device that uses a laser to etch it with your name and a unique identifying pattern. After that, the USPS would pick up your package; from there, the app would prompt you to provide the name of the person you're trying to reach. Don't know their address? No problem: You could provide it in the app, or the service would ping the recipient on their phone, requesting info about to send the package—or defaulting to any address they might already have listed in the app. Once the addressee is entered and the package arrives at a sorting center, it's re-stamped with the addressee's name and another unique identifying pattern.<sup>[[6]](#footnote-6)</sup>
 
 [https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title](https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title)
 
@@ -276,17 +276,17 @@ I hope that with my project I managed to get a few steps closer to archival resi
 
 ## **Bibliography**
 
-**[1]**: Collection of the Eight Years War of Iran-Iraq (1980-1988): Collection of 114 Stamps of the Eight Years War of Iran - Iraq. Enclosed an Explanation By Najmuddin Kawyani and a Copy of the Catalogue of the Stamps. 2004. [Accessed 5 February 2020]
+<a name="footnote-1">**[1]**</a>: Collection of the Eight Years War of Iran-Iraq (1980-1988): Collection of 114 Stamps of the Eight Years War of Iran - Iraq. Enclosed an Explanation By Najmuddin Kawyani and a Copy of the Catalogue of the Stamps. 2004. [Accessed 5 February 2020]
 
-**[2]:** Martin, T., 2018. Iran's Hidden History Now Told By Postage Stamps | Design Indaba. [online] Design Indaba. Available at: [https://www.designindaba.com/articles/creative-work/irans-hidden-history-now-told-postage-stamps](https://www.designindaba.com/articles/creative-work/irans-hidden-history-now-told-postage-stamps) [Accessed 2 May 2020].
+<a name="footnote-2">**[2]**</a>: Martin, T., 2018. Iran's Hidden History Now Told By Postage Stamps | Design Indaba. [online] Design Indaba. Available at: [https://www.designindaba.com/articles/creative-work/irans-hidden-history-now-told-postage-stamps](https://www.designindaba.com/articles/creative-work/irans-hidden-history-now-told-postage-stamps) [Accessed 2 May 2020].
 
-**[3]:** Bourton, L., 2018. Stamps Of A Revolution: Ali Mobasser's Iranian Stamp Collection And Incredible Family Story. [online] [Itsnicethat.com](http://itsnicethat.com/). Available at: [https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218](https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218) [Accessed 2 May 2020].
+<a name="footnote-3">**[3]**</a>: Bourton, L., 2018. Stamps Of A Revolution: Ali Mobasser's Iranian Stamp Collection And Incredible Family Story. [online] [Itsnicethat.com](http://itsnicethat.com/). Available at: [https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218](https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218) [Accessed 2 May 2020].
 
-**[4]:** Yardley, C., n.d. The Representation Of Science And Scientists On Postage Stamps.
+<a name="footnote-4">**[4]**</a>: Yardley, C., n.d. The Representation Of Science And Scientists On Postage Stamps.
 
-**[5]:** kopen, P., 2020. Postzegelcode. [online] PostNL. Available at: [https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/](https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/) [Accessed 2 May 2020].
+<a name="footnote-5">**[5]**</a>: kopen, P., 2020. Postzegelcode. [online] PostNL. Available at: [https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/](https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/) [Accessed 2 May 2020].
 
-**[6]:** Kuang, C., 2014. A Bold Vision For The Future Of The Postage Stamp. [online] WIRED. Available at: [https://www.wired.com/2014/10/bold-vision-future-postage-stamp/](https://www.wired.com/2014/10/bold-vision-future-postage-stamp/) [Accessed 2 May 2020].
+<a name="footnote-6">**[6]**</a>: Kuang, C., 2014. A Bold Vision For The Future Of The Postage Stamp. [online] WIRED. Available at: [https://www.wired.com/2014/10/bold-vision-future-postage-stamp/](https://www.wired.com/2014/10/bold-vision-future-postage-stamp/) [Accessed 2 May 2020].
 
 **Used for inspiration and extra research:**
 
