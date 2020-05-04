@@ -1,0 +1,1092 @@
+<!doctype html>
+<html class="export" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="Filter &amp; sort magical layouts">
+
+  <title>Isotope &#xB7; Filtering</title>
+
+    <!-- Isotope does not require any CSS files -->
+    <link rel="stylesheet" href="css/isotope-docs.css?6" media="screen">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@metafizzyco">
+  <meta name="twitter:url" content="https://isotope.metafizzy.co/filtering.html">
+  <meta name="twitter:title" content="Isotope Filtering">
+  <meta name="twitter:description" content="Filter &amp; sort magical layouts">
+
+</head>
+
+<body class="page--filtering">
+
+
+
+
+
+  <div id="content" class="main">
+    <div class="container">
+        <h1>LICK'EM STICK'EM </h1>
+
+<hr class="new1">
+
+<a href="about.html">
+<button class="button">About collection</button>
+</a>
+<button class="button">Zoom-ins</button>
+<a href="timeline.html">
+<button class="button">Reading of stamps through time - timeline</button>
+</a>
+
+<hr class="new1">
+
+<div class="big-demo go-wide" data-js="filtering-demo">
+  <div class="filter-button-group button-group js-radio-button-group">
+
+    <div class="dropdown">
+      <button class="dropbtn">Countent</button>
+      <div class="dropdown-content">
+        <button class="button" data-filter=".Article">Article</button>
+        <button class="button" data-filter=".Interview">Interview</button>
+        <button class="button" data-filter=".Photographs">Photographs</button>
+        <button class="button" data-filter=".Translation">Translation</button>
+        <button class="button" data-filter=".Video">Video</button>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropbtn">Country</button>
+      <div class="dropdown-content" data-filter-group="country">
+        <button class="button" data-filter=".Iran">Iran</button>
+        <button class="button" data-filter=".Iraq">Iraq</button>
+        <button class="button" data-filter=".USA">USA</button>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropbtn">Topic</button>
+      <div class="dropdown-content" data-filter-group="topic">
+        <button class="button" data-filter=".Anniversary">Anniversary</button>
+        <button class="button" data-filter=".Authority">Authority</button>
+        <button class="button" data-filter=".Celebration">Celebration</button>
+        <button class="button" data-filter=".Child">Child</button>
+        <button class="button" data-filter=".Culture">Culture</button>
+        <button class="button" data-filter=".Education">Education</button>
+        <button class="button" data-filter=".History">History</button>
+        <button class="button" data-filter=".Honor">Honor</button>
+        <button class="button" data-filter=".Khomeini">Khomeini</button>
+        <button class="button" data-filter=".Memory">Memory</button>
+        <button class="button" data-filter=".Profession">Profession</button>
+        <button class="button" data-filter=".Propaganda">Propaganda</button>
+        <button class="button" data-filter=".Religion">Religion</button>
+        <button class="button" data-filter=".Revolution">Revolution</button>
+        <button class="button" data-filter=".Society">Society</button>
+        <button class="button" data-filter=".Violence">Violence</button>
+        <button class="button" data-filter=".War">War</button>
+        <button class="button" data-filter=".Women">Women</button>
+        <button class="button" data-filter=".Youth">Youth</button>
+        <button class="button" data-filter=".Sports">Sports</button>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropbtn">Tag</button>
+      <div class="dropdown-content" data-filter-group="tag">
+        <button class="button" data-filter=".Animal">Animal</button>
+        <button class="button" data-filter=".Bandana">Bandana</button>
+        <button class="button" data-filter=".Bomb">Bomb</button>
+        <button class="button" data-filter=".Bullet">Bullet</button>
+        <button class="button" data-filter=".Fist">Fist</button>
+        <button class="button" data-filter=".Flag">Flag</button>
+        <button class="button" data-filter=".Flower">Flower</button>
+        <button class="button" data-filter=".Gun">Gun</button>
+        <button class="button" data-filter=".Nature">Nature</button>
+        <button class="button" data-filter=".Sun">Sun</button>
+        <button class="button" data-filter=".Water">Water</button>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <button class="dropbtn">Year</button>
+      <div class="dropdown-content" data-filter-group="year">
+        <button class="button" data-filter=".1981">1981</button>
+        <button class="button" data-filter=".1982">1982</button>
+        <button class="button" data-filter=".1983">1983</button>
+        <button class="button" data-filter=".1984">1984</button>
+        <button class="button" data-filter=".1985">1985</button>
+        <button class="button" data-filter=".1986">1986</button>
+        <button class="button" data-filter=".1987">1987</button>
+        <button class="button" data-filter=".1988">1988</button>
+        <button class="button" data-filter=".1989">1989</button>
+        <button class="button" data-filter=".1990">1990</button>
+        <button class="button" data-filter=".1991">1991</button>
+        <button class="button" data-filter=".1992">1992</button>
+        <button class="button" data-filter=".1993">1993</button>
+        <button class="button" data-filter=".1994">1994</button>
+        <button class="button" data-filter=".1995">1995</button>
+        <button class="button" data-filter=".1996">1996</button>
+        <button class="button" data-filter=".1997">1997</button>
+        <button class="button" data-filter=".1998">1998</button>
+        <button class="button" data-filter=".1999">1999</button>
+        <button class="button" data-filter=".2000">2000</button>
+      </div>
+    </div>
+
+
+    <button class="button is-checked" data-filter="*">show all</button>
+  </div>
+
+
+  <!-- <pre class="code-display"><code>$grid.isotope({...})</code></pre> -->
+
+  <div class="grid">
+
+      <div class="element-item Iran 1981 Violence War Religion Propaganda Gun Flag Water" data-category="metalloid" >
+          <div class="image">
+            <a href="stamp1.html">
+          <img src="img/Artboard 1.png"/>
+          </a>
+          </div>
+        </div>
+
+      <div class="element-item Iran 1981 War Memory History Iraq" data-category="metalloid" >
+          <div class="image">
+            <a href="stamp2.html">
+          <img src="img/Artboard 2.png"/>
+          </a>
+          </div>
+        </div>
+
+      <div class="element-item Iran 1982 Violence War Honor Flag Religion Iraq " data-category="post-transition">
+        <div class="image">
+          <a href="stamp4.html">
+        <img src="img/Artboard 4.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 War Flower Bullet Fist " data-category="post-transition">
+        <div class="image">
+          <a href="stamp3.html">
+        <img src="img/Artboard 3.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 Gun Animal Iraq Translation" data-category="transition">
+        <div class="image">
+          <a href="stamp5.html">
+        <img src="img/Artboard 5.png"/>
+      </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 War Religion Propaganda Bandana Nature" data-category="alkali">
+        <div class="image">
+          <a href="stamp6.html">
+        <img src="img/Artboard 6.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 Nature Water" data-category="alkali">
+        <div class="image">
+          <a href="stamp7.html">
+        <img src="img/Artboard 7.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 War Violence Gun Flag Bandana" data-category="transition">
+        <div class="image">
+          <a href="stamp8.html">
+        <img src="img/Artboard 8.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1983 Fist Flag Celebration Bandana" data-category="alkaline-earth">
+        <div class="image">
+          <a href="stamp9.html">
+        <img src="img/Artboard 9.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1984 Propaganda Religion War Bullet Flower" data-category="transition">
+        <div class="image">
+        <a href="stamp10.html">
+        <img src="img/Artboard 10.png"/>
+      </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1984 Revolution Honor Fist" data-category="post-transition">
+        <div class="image">
+          <a href="stamp11.html">
+        <img src="img/Artboard 11.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1984 Violence Profession Celebration women " data-category="metalloid">
+        <div class="image">
+          <a href="stamp12.html">
+        <img src="img/Artboard 12.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Anniversary Defence Fist Flower Memory War Bandana" data-category="actinoid">
+        <div class="image">
+          <a href="stamp19.html">
+        <img src="img/Artboard 19.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Anniversary Defence Fist Flower Flag Memory War " data-category="actinoid">
+        <div class="image">
+          <a href="stamp20.html">
+        <img src="img/Artboard 20.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Anniversary Defence Fist Flower Memory War " data-category="actinoid">
+        <div class="image">
+          <a href="stamp21.html">
+        <img src="img/Artboard 21.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Anniversary Defence Fist Flower Memory War " data-category="actinoid">
+        <div class="image">
+          <a href="stamp22.html">
+        <img src="img/Artboard 22.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Youth Education " data-category="actinoid">
+        <div class="image">
+          <a href="stamp110.html">
+        <img src="img/Artboard 110.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Youth Defence Gun Fist " data-category="actinoid">
+        <div class="image">
+          <a href="stamp111.html">
+        <img src="img/Artboard 111.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Youth Industry Profession " data-category="actinoid">
+        <div class="image">
+          <a href="stamp112.html">
+        <img src="img/Artboard 112.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1985 Youth Sports " data-category="actinoid">
+        <div class="image">
+          <a href="stamp113.html">
+        <img src="img/Artboard 113.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Fist Defence Memory " data-category="transition">
+        <div class="image">
+          <a href="stamp13.html">
+        <img src="img/Artboard 13.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Fist Defence Memory " data-category="lanthanoid">
+        <div class="image">
+          <a href="stamp14.html">
+        <img src="img/Artboard 14.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Fist Defence Memory " data-category="noble-gas">
+        <div class="image">
+          <a href="stamp15.html">
+        <img src="img/Artboard 15.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Fist Defence Memory " data-category="diatomic">
+        <div class="image">
+          <a href="stamp16.html">
+        <img src="img/Artboard 16.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Fist Defence Memory " data-category="actinoid">
+        <div class="image">
+          <a href="stamp17.html">
+        <img src="img/Artboard 17.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 War Flag Propaganda " data-category="actinoid">
+        <div class="image">
+          <a href="stamp18.html">
+        <img src="img/Artboard 18.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 USA Violence Propaganda " data-category="actinoid">
+        <div class="image">
+          <a href="stamp23.html">
+        <img src="img/Artboard 23.png"/>
+        </a>
+        </div>
+      </div>
+
+      <div class="element-item Iran 1986 Child Youth Iraq Flag Propaganda Violence " data-category="actinoid">
+        <div class="image">
+          <a href="stamp24.html">
+        <img src="img/Artboard 24.png"/>
+        </a>
+        </div>
+      </div>
+
+  <div class="element-item Iran 1986 Defence Flower Fist Anniversary religion Memory War " data-category="actinoid">
+    <div class="image">
+      <a href="stamp25.html">
+    <img src="img/Artboard 25.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1987 Celebration Animal " data-category="actinoid">
+    <div class="image">
+      <a href="stamp26.html">
+    <img src="img/Artboard 26.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1987 Women Anniversary Celebration Flag Gun Sun Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp27.html">
+    <img src="img/Artboard 27.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1987 Revolution Anniversary Celebration Flag " data-category="actinoid">
+    <div class="image">
+      <a href="stamp28.html">
+    <img src="img/Artboard 28.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1988 USA Propaganda Flag Violence Bomb " data-category="actinoid">
+    <div class="image">
+      <a href="stamp29.html">
+    <img src="img/Artboard 29.png"/>
+  </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1988 Iraq Propaganda Violence War Flag Child Education Bomb Memory " data-category="actinoid">
+    <div class="image">
+      <a href="stamp30.html">
+    <img src="img/Artboard 30.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1988 Women Anniversary Celebration Flag Gun " data-category="actinoid">
+    <div class="image">
+      <a href="stamp31.html">
+    <img src="img/Artboard 31.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1988 Anniversary Defence Gun Memory War Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp32.html">
+    <img src="img/Artboard 32.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1988 Iraq Bomb Propaganda Violence War Memory " data-category="actinoid">
+    <div class="image">
+      <a href="stamp33.html">
+    <img src="img/Artboard 33.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1989 Anniversary War Gun Water Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp34.html">
+    <img src="img/Artboard 34.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1989 Honor Gun Bullet Animal " data-category="actinoid">
+    <div class="image">
+      <a href="stamp35.html">
+    <img src="img/Artboard 35.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1989 Profession Industry Celebration " data-category="actinoid">
+    <div class="image">
+      <a href="stamp36.html">
+    <img src="img/Artboard 36.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1989 Anniversary Defence Iraq War Memory " data-category="actinoid">
+    <div class="image">
+      <a href="stamp37.html">
+    <img src="img/Artboard 37.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1990 Revolution Honor Gun Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp38.html">
+    <img src="img/Artboard 38.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1990 Flower Fist Defence Memory War " data-category="actinoid">
+    <div class="image">
+      <a href="stamp39.html">
+    <img src="img/Artboard 39.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1990 Revolution Flower " data-category="actinoid">
+    <div class="image">
+      <a href="stamp40.html">
+    <img src="img/Artboard 40.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1991 Flower Fist Defence Memory War " data-category="actinoid">
+    <div class="image">
+      <a href="stamp41.html">
+    <img src="img/Artboard 41.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1991 Flag Memory Celebration " data-category="actinoid">
+    <div class="image">
+      <a href="stamp42.html">
+    <img src="img/Artboard 42.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1991 Iraq Propaganda Violence War Memory Religion " data-category="actinoid">
+    <div class="image">
+      <a href="stamp43.html">
+    <img src="img/Artboard 43.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1992 Water Gun Flag Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp44.html">
+    <img src="img/Artboard 44.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1992 Gun Sun Defence Memory War Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp45.html">
+    <img src="img/Artboard 45.png"/>
+    </a>
+    </div>
+  </div>
+
+  <div class="element-item Iran 1992 Nature Water Sun Bandana" data-category="actinoid">
+    <div class="image">
+      <a href="stamp46.html">
+    <img src="img/Artboard 46.png"/>
+    </a>
+    </div>
+  </div>
+<!-- </div> -->
+
+<div class="element-item Iran 1993 Woman War Khomeini Bandana" data-category="actinoid">
+  <div class="image">
+    <a href="stamp47.html">
+  <img src="img/Artboard 47.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Sports Fist Flower Memory " data-category="actinoid">
+  <div class="image">
+    <a href="stamp48.html">
+  <img src="img/Artboard 48.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Sports Fist Flower Memory Bandana" data-category="actinoid">
+  <div class="image">
+    <a href="stamp49.html">
+  <img src="img/Artboard 49.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Flag Society " data-category="actinoid">
+  <div class="image">
+    <a href="stamp50.html">
+  <img src="img/Artboard 50.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Flag Gun Violence Flower Bomb " data-category="actinoid">
+  <div class="image">
+    <a href="stamp51.html">
+  <img src="img/Artboard 51.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Bomb Gun Violence " data-category="actinoid">
+  <div class="image">
+    <a href="stamp52.html">
+  <img src="img/Artboard 52.png"/>
+  </a>
+  </div>
+<div class="properties">
+</div>
+</div>
+
+<div class="element-item Iran 1993 Profession Industry Celebration Woman Labor " data-category="actinoid">
+  <div class="image">
+    <a href="stamp53.html">
+  <img src="img/Artboard 53.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1993 Sun Khomeini Flower Celebration Authority " data-category="actinoid">
+  <div class="image">
+    <a href="stamp54.html">
+  <img src="img/Artboard 54.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1994 Flag Honor Memory Celebration Religion " data-category="actinoid">
+  <div class="image">
+    <a href="stamp55.html">
+  <img src="img/Artboard 55.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1994 Defence Gun Fist Memory War " data-category="actinoid">
+  <div class="image">
+    <a href="stamp56.html">
+  <img src="img/Artboard 56.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1994 Gun Water Sun Animal Anniversary Celebration " data-category="actinoid">
+  <div class="image">
+    <a href="stamp57.html">
+  <img src="img/Artboard 57.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1994 Art Bandana" data-category="actinoid">
+  <div class="image">
+    <a href="stamp58.html">
+  <img src="img/Artboard 58.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Honor Memory Celebration " data-category="actinoid">
+  <div class="image">
+    <a href="stamp59.html">
+  <img src="img/Artboard 59.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Gun Defence Memory War Bandana" data-category="actinoid">
+  <div class="image">
+    <a href="stamp60.html">
+  <img src="img/Artboard 60.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp61.html">
+  <img src="img/Artboard 61.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp62.html">
+  <img src="img/Artboard 62.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp63.html">
+  <img src="img/Artboard 63.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp64.html">
+  <img src="img/Artboard 64.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1995 Memory Honor " data-category="actinoid">
+  <div class="image">
+    <a href="stamp65.html">
+  <img src="img/Artboard 65.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Defence Memory Violence War Bandana " data-category="actinoid">
+  <div class="image">
+    <a href="stamp66.html">
+  <img src="img/Artboard 66.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Sun Animal Bandana" data-category="actinoid">
+  <div class="image">
+    <a href="stamp67.html">
+  <img src="img/Artboard 67.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp68.html">
+  <img src="img/Artboard 68.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Memory Honor Flag  " data-category="actinoid">
+  <div class="image">
+    <a href="stamp69.html">
+  <img src="img/Artboard 69.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp70.html">
+  <img src="img/Artboard 70.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1996 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp71.html">
+  <img src="img/Artboard 71.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp72.html">
+  <img src="img/Artboard 72.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp73.html">
+  <img src="img/Artboard 73.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp74.html">
+  <img src="img/Artboard 74.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag  " data-category="actinoid">
+  <div class="image">
+    <a href="stamp75.html">
+  <img src="img/Artboard 75.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+  <div class="image">
+    <a href="stamp76.html">
+  <img src="img/Artboard 76.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Flag Memory War Defence " data-category="actinoid">
+  <div class="image">
+    <a href="stamp77.html">
+  <img src="img/Artboard 77.png"/>
+  </a>
+  </div>
+</div>
+
+<div class="element-item Iran 1997 Gun Child Water Anniversary Defence Memory War Bandana" data-category="actinoid">
+<div class="image">
+  <a href="stamp78.html">
+<img src="img/Artboard 78.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Gun Child Anniversary Defence Memory War Bandana" data-category="actinoid">
+<div class="image">
+  <a href="stamp79.html">
+<img src="img/Artboard 79.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Child Flower Flag Revolution Memory Khomeini Authority " data-category="actinoid">
+<div class="image">
+  <a href="stamp80.html">
+<img src="img/Artboard 80.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Revolution Flag Memory Khomeini Authority" data-category="actinoid">
+<div class="image">
+  <a href="stamp81.html">
+<img src="img/Artboard 81.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Revolution Flag Memory Khomeini Authority " data-category="actinoid">
+<div class="image">
+  <a href="stamp82.html">
+<img src="img/Artboard 82.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Revolution Flag Memory Khomeini Authority " data-category="actinoid">
+<div class="image">
+  <a href="stamp83.html">
+<img src="img/Artboard 83.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Revolution Flag Memory Gun " data-category="actinoid">
+<div class="image">
+  <a href="stamp84.html">
+<img src="img/Artboard 84.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp85.html">
+<img src="img/Artboard 85.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp86.html">
+<img src="img/Artboard 86.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1997 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp87.html">
+<img src="img/Artboard 87.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Flag Religion Anniversary Celebration Flower " data-category="actinoid">
+<div class="image">
+  <a href="stamp88.html">
+<img src="img/Artboard 88.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Religion Anniversary Celebration Flower Industry " data-category="actinoid">
+<div class="image">
+  <a href="stamp89.html">
+<img src="img/Artboard 89.png"/>
+</a>
+</div>
+<div class="properties">
+</div>
+</div>
+
+<div class="element-item Iran 1998 Flag Religion Anniversary Celebration Flower " data-category="actinoid">
+<div class="image">
+  <a href="stamp90.html">
+<img src="img/Artboard 90.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Religion Anniversary Celebration Flower Khomeini Fist " data-category="actinoid">
+<div class="image">
+  <a href="stamp91.html">
+<img src="img/Artboard 91.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Religion Anniversary Celebration Flower Khomeini " data-category="actinoid">
+<div class="image">
+  <a href="stamp92.html">
+<img src="img/Artboard 92.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Relegion Memory Celebration Honor " data-category="actinoid">
+<div class="image">
+  <a href="stamp93.html">
+<img src="img/Artboard 93.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp94.html">
+<img src="img/Artboard 94.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp95.html">
+<img src="img/Artboard 95.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp96.html">
+<img src="img/Artboard 96.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1998 Memory Honor Flag  " data-category="actinoid">
+<div class="image">
+  <a href="stamp97.html">
+<img src="img/Artboard 97.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 1999 Water Memory War " data-category="actinoid">
+<div class="image">
+  <a href="stamp98.html">
+<img src="img/Artboard 98.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp99.html">
+<img src="img/Artboard 99.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag  " data-category="actinoid">
+<div class="image">
+  <a href="stamp100.html">
+<img src="img/Artboard 100.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp101.html">
+<img src="img/Artboard 101.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp102.html">
+<img src="img/Artboard 102.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp103.html">
+<img src="img/Artboard 103.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag  " data-category="actinoid">
+<div class="image">
+  <a href="stamp104.html">
+<img src="img/Artboard 104.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp105.html">
+<img src="img/Artboard 105.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran 2000 Memory Honor Flag " data-category="actinoid">
+<div class="image">
+  <a href="stamp106.html">
+<img src="img/Artboard 106.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran Unknown Gun Violence War  " data-category="actinoid">
+<div class="image">
+  <a href="stamp107.html">
+<img src="img/Artboard 107.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran Unknown Gun Propaganda " data-category="actinoid">
+<div class="image">
+  <a href="stamp108.html">
+<img src="img/Artboard 108.png"/>
+</a>
+</div>
+</div>
+
+<div class="element-item Iran Unknown  " data-category="actinoid">
+<div class="image">
+  <a href="stamp109.html">
+<img src="img/Artboard 109.png"/>
+</a>
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+
+<!-- Looking for isotope.js? Use isotope.pkgd.min.js -->
+<!-- Isotope does NOT require jQuery. But it does make things easier -->
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+
+  <script src="js/isotope-docs.min.js?6"></script>
+
+<script>
+  // store filter for each group
+  var filters = {};
+  $('.big-demo').on( 'click', '.button', function() {
+    var $this = $(this);
+    // get group key
+    var $buttonGroup = $this.parents('.dropdown-content');
+    var filterGroup = $buttonGroup.attr('data-filter-group');
+    // set filter for group
+    filters[ filterGroup ] = $this.attr('data-filter');
+    // combine filters
+    var filterValue = concatValues( filters );
+    $('.grid').isotope({ filter: filterValue });
+  });
+  // flatten object by concatting values
+  function concatValues( obj ) {
+    var value = '';
+    for ( var prop in obj ) {
+      value += obj[ prop ];
+    }
+    return value;
+  }
+</script>
+
+</body>
+</html>
