@@ -211,9 +211,9 @@ I used the translations of the stamp to make a few stamps with only English text
 
 ![Untitled/README_IMG17.png](Untitled/README2_IMG3.png)
 
-![Untitled/README_IMG20.png](Untitled/README_IMG20.png)
-
 ![Untitled/README_IMG21.png](Untitled/README_IMG21.png)
+
+![Untitled/README_IMG20.png](Untitled/README_IMG20.png)
 
 Text only stamps (English):
 
