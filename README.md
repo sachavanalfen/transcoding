@@ -1,5 +1,4 @@
 ![Untitled/banner.png](Untitled/banner.png)
-
 # **LICK'EM STICK'EM: Collection of 114 stamps**
 
 ### **Table of Contents**
