@@ -95,7 +95,7 @@ Postal Propaganda of the Third Reich:
 
 ## The stamp in contemporary context
 
-Nowadays the stamp is getting used less and less due to Email and new techniques. One example that is used nowadays to replace the stamp is the stamp code. The stamp code is a nine digit and letter code. Buy the stamp code easily online and write it on your envelope. <sup>[[5]](#footnote-5)</sup>
+Nowadays the stamp is getting used less and less due to Email and new techniques. One example that is used nowadays to replace the stamp is the stamp code. The stamp code is a nine digit and letter code. Buy the stamp code easily online and write it on your envelope.
 
 [Postage and stamps](https://www.postnl.nl/en/mail-and-parcels/mail/postage-and-stamps/)
 
@@ -107,7 +107,7 @@ What the future of the postage stamp will be, is something I can't answer. What 
 
 An interesting project I found out about is called Signet. Signet created by Ziba, is a proposal that envisions how we might improve upon snail mail:
 
-Madden's team created Signet, a system that could radically overhaul how we use the US Postal Service. At its core, it is a digital stamp and an app. If you want to send a parcel, you'd simply stamp it with a device that uses a laser to etch it with your name and a unique identifying pattern. After that, the USPS would pick up your package; from there, the app would prompt you to provide the name of the person you're trying to reach. Don't know their address? No problem: You could provide it in the app, or the service would ping the recipient on their phone, requesting info about to send the package—or defaulting to any address they might already have listed in the app. Once the addressee is entered and the package arrives at a sorting center, it's re-stamped with the addressee's name and another unique identifying pattern.<sup>[[6]](#footnote-6)</sup>
+Madden's team created Signet, a system that could radically overhaul how we use the US Postal Service. At its core, it is a digital stamp and an app. If you want to send a parcel, you'd simply stamp it with a device that uses a laser to etch it with your name and a unique identifying pattern. After that, the USPS would pick up your package; from there, the app would prompt you to provide the name of the person you're trying to reach. Don't know their address? No problem: You could provide it in the app, or the service would ping the recipient on their phone, requesting info about to send the package—or defaulting to any address they might already have listed in the app. Once the addressee is entered and the package arrives at a sorting center, it's re-stamped with the addressee's name and another unique identifying pattern.<sup>[[5]](#footnote-5)</sup>
 
 [https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title](https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title)
 
@@ -281,9 +281,7 @@ I hope that with my project I managed to get a few steps closer to archival resi
 
 <a name="footnote-4">**[4]**</a>: Yardley, C., n.d. The Representation Of Science And Scientists On Postage Stamps.
 
-<a name="footnote-5">**[5]**</a>: kopen, P., 2020. Postzegelcode. [online] PostNL. Available at: [https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/](https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/) [Accessed 2 May 2020].
-
-<a name="footnote-6">**[6]**</a>: Kuang, C., 2014. A Bold Vision For The Future Of The Postage Stamp. [online] WIRED. Available at: [https://www.wired.com/2014/10/bold-vision-future-postage-stamp/](https://www.wired.com/2014/10/bold-vision-future-postage-stamp/) [Accessed 2 May 2020].
+<a name="footnote-5">**[5]**</a>: Kuang, C., 2014. A Bold Vision For The Future Of The Postage Stamp. [online] WIRED. Available at: [https://www.wired.com/2014/10/bold-vision-future-postage-stamp/](https://www.wired.com/2014/10/bold-vision-future-postage-stamp/) [Accessed 2 May 2020].
 
 **Used for inspiration and extra research:**
 
