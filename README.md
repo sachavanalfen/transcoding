@@ -267,7 +267,7 @@ Complete website:
 
 ### **Outcome Links**
 
-[Website](https://github.com/sachavanalfen/transcoding/web/index.html)
+[Website](https://sachavanalfen.github.io/transcoding/web/index.html)
 
 # **Conclusion**
 
