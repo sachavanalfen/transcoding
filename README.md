@@ -205,9 +205,11 @@ The aim is to make sure the user gains more knowledge about the stamps as a coll
 
 I used the translations of the stamp to make a few stamps with only English text. I removed all the imagery of the stamp and replaced all the text with English text. Next to this I made a few more sketches that could have been part of this project but I in the end decided not not use. In the first ones you see I removed all the text and the violent objects/imagery to make them as neutral as possible. It was a nice exercise to work on and I do think they are intersting to look at, especially next to each other, but I did not know how this would add something to my pages. Out of one of the edited stamp I made a flag, which I decided not to use, it is just part of my process.
 
-![Untitled/README_IMG16.png](Untitled/README_IMG16.png)
+![Untitled/README_IMG16.png](Untitled/README2_IMG.png)
 
-![Untitled/README_IMG17.png](Untitled/README_IMG17.png)
+![Untitled/README_IMG17.png](Untitled/README2_IMG2.png)
+
+![Untitled/README_IMG17.png](Untitled/README2_IMG3.png)
 
 ![Untitled/README_IMG20.png](Untitled/README_IMG20.png)
 
