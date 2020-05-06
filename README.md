@@ -1,4 +1,4 @@
-![Untitled/banner.png](Untitled/banner.png)
+![banner.gif](banner.gif)
 # **LICK'EM STICK'EM**
 
 ### **Table of Contents**
