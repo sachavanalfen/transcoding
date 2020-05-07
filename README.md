@@ -22,7 +22,7 @@
 
 ## **Artefact**
 
-Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps.
+Collection of 114 stamps of the eight years war of Iran - Iraq. During the war the Islamic Republic of Iran published this series of postal stamps related to the war, and used them to show the logic of the war and to attract public support. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps.
 
 ### **Metadata**
 
