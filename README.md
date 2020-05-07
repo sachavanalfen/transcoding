@@ -1,4 +1,4 @@
-![Banner.gif](Banner.gif)
+[<img src="Banner.gif">](#)
 # **LICK'EM STICK'EM**
 
 ### **Table of Contents**
