@@ -3,7 +3,7 @@
 
 ### **Table of Contents**
 
-1. [Artefact](https://github.com/sachavanalfen/transcoding#Artefact)
+1. [Artefact](https://github.com/sachavanalfen/transcoding#artefact)
     1. [Metadata](https://github.com/sachavanalfen/transcoding#Metadata)
 2. [Research](https://github.com/sachavanalfen/transcoding#Research-h1)
     1. [Background information](https://github.com/sachavanalfen/transcoding#Background-information)
