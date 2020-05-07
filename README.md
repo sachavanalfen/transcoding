@@ -20,11 +20,11 @@
 4. [Conclusion](https://github.com/sachavanalfen/transcoding#conclusion)
 5. [Bibliography](https://github.com/sachavanalfen/transcoding#bibliography)
 
-# **Artefact**
+## **Artefact**
 
 Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps.
 
-## **Metadata**
+### **Metadata**
 
 | Tag | Data |  
 |--|--|
@@ -37,11 +37,11 @@ Collection of 114 stamps of the eight years war of Iran - Iraq. Enclosed an expl
 | **Published** | 2004
 |![Untitled/IMG_1435.jpg](Untitled/IMG_1435.jpg)| Collection of 114 stamps of the eight years war of Iran - Iraq, bundled in a green velvet album(+/-A5) with an embroidered emblem of the Revolutionary Guard. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps. 
 
-# **Research**
+## **Research**
 
 My research consists of background information on the collection and related artefacts at the IISG. I tried to find as much information on the IISG website on the topic as I could. I also researched into the stamp as a political messenger and made comparisons to stamps from other countries. When I was done with that I started to look at the stamp itself; its use right now and in the future. 
 
-## Background information
+### Background information
 
 After a series of political and border conflicts between the two neighbouring countries the war between Iraq - Iran began with an attack by Iraq regime on Iran. Following the Islamic revolution of 1979 in Iran and its possible effects on the Iraqi Shiites the dimensions of border disputes between two countries were increased. At the early attack the main objective of Iraq was the occupation of the Province of "Khuzestan" of Iran. At the beginning they advanced rapidly deep inside Iran, until thet faced significant resistance in "Khuramshahr". Finally in the spring of 1982 Iran took the war under its control. 
 
@@ -53,13 +53,13 @@ During the war the Islamic Republic of Iran published a series of postal stamps 
 
 ![Untitled/README_IMG2.png](Untitled/README_IMG2.png)
 
-## **Related artefacts at the IISG**
+### **Related artefacts at the IISG**
 
 Before doing more research outside of the IISG, I wanted to find out first what more the archive had to offer on the same topic. While I was doing some more digging I found out about this map containing lots of small cards (similar to postcards). They where published in Iran during the war period. Since they look very much like postcards there is another connection between the two, because what is a postcards without postage stamp?  
 
 ![Untitled/README_IMG3.png](Untitled/README_IMG3.png)
 
-## The stamp as a political messenger
+### The stamp as a political messenger
 
 > "It is the visual qualities which make a stamp an important messenger that implements the state's official outlook in the everyday life of ordinary citizens" - Pauliina Raento
 
@@ -71,7 +71,7 @@ Interesting article about Ali Mobassar;s Iranian stamp collection: *Stamps of a 
 
 [Stamps of a Revolution: Ali Mobasser's Iranian stamp collection and incredible family story](https://www.itsnicethat.com/articles/ali-mobasser-stamps-of-a-revolution-miscellaneous-280218)
 
-### Comparing to other countries
+#### Comparing to other countries
 
 To continue my research I though it could be interesting to look at other countries and their stamps. Are there other countries that published such political stamps? In what kind of countries did this happen most often?
 
@@ -93,7 +93,7 @@ Postal Propaganda of the Third Reich:
 
 "For it is certain that the images and messages seen by Germans on their stamps, postcards and postmarks did have an incredible impact upon shaping public perceptions. Their sheer volume alone undoubtedly made them as important as almost any other medium (Moore, 2003, p. 136)."[...] <sup>[[4]](#footnote-4)</sup>
 
-## The stamp in contemporary context
+### The stamp in contemporary context
 
 Nowadays the stamp is getting used less and less due to Email and new techniques. One example that is used nowadays to replace the stamp is the stamp code. The stamp code is a nine digit and letter code. Buy the stamp code easily online and write it on your envelope.
 
@@ -101,7 +101,7 @@ Nowadays the stamp is getting used less and less due to Email and new techniques
 
 [Postzegelcode](https://www.postnl.nl/versturen/postzegels/postzegels-kopen/postzegelcode/)
 
-## Future of the stamp
+### Future of the stamp
 
 What the future of the postage stamp will be, is something I can't answer. What I do know is that less and less postcards are being sent, and that, like I showed before, there are other techniques that replace the postage stamp. So the use of postage stamps for sure is declining. 
 
@@ -111,7 +111,7 @@ Madden's team created Signet, a system that could radically overhaul how we use 
 
 [https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title](https://www.youtube.com/watch?time_continue=53&v=KMMyOdOActg&feature=emb_title)
 
-# **Transcoding**
+## **Transcoding**
 
 The start of this project mainly consisted of me looking very closely at the stamps, what do I see? what do they tell me? Since all of the stamps include both English and Persian text, I needed a tool to translate them. Therefor I used the google translate app together with some help of my Iranian friend. When I was in doubt about one of the results of the app, I contacted him. One of the reason for me to transcode this artifact is because the postage stamp is getting more rare. There are less and less people collecting postage stamps, and since they are being replaced by new technologies, the quantity in which we see the postage stamp is getting less. Another reason for me to transcode this artifact is to find a way to give people more knowledge about the collection in an interactive way. To prevent the the postage stamp from being forgotten about and to give people more knowledge about this specific stamp collection, I digitized this collection of stamps. With this digitized collection of stamps I created a tool. This tool, where all of my transcoding’s come together, functions as a guide to understand the collection of stamps, together with the events portrayed on them, better. It allows the user to see the stamps in different environments and to filter them in different ways. It is supposed to be an objective tool without it making any assumptions. It is up to the user to discover and hopefully gain more knowledge. For the tool I used Html, JS and Isotope.
 
@@ -233,29 +233,29 @@ HTML
 
 [Link to outcome](https://github.com/sachavanalfen/transcoding#Outcome)
 
-# **Reflection**
+## **Reflection**
 
 While is was working on this project I went in completely different directions. I made multiple of analogue sketches for transcodings, which I in the end decided not to use. Although I decided not to use them, the process of making them is still valuable. I decided that a website was going to be the platform where everything would come together. When I made the decision to only focus on the website, I noticed some sort of relieve. From this point on I had one platform to focus on, which for me really helped to improve my project and the make the website better. 
 
-# **Outcome**
+## **Outcome**
 
 This website, where all of my transcoding’s come together, functions as a guide to understand the collection of stamps, together with the events portrayed on them, better. It allows the user to see the stamps in different environments and to filter them in different ways. The user can narrate him/her-self through all of the information in the way they want. It is supposed to be an objective tool without it making any assumptions. It is up to the user to discover and hopefully gain more knowledge. The idea is that is functions a mini archive of the stamps. Story telling is something that inspired me and I wanted my website to have this feeling. All of the stamps tell a different story, but with all of them together they tell an even bigger story. 
 
-## Start page
+### Start page
 
 ![Untitled/README_IMG4.png](Untitled/README_IMG4.png)
 
-## Main page
+### Main page
 
 ![Untitled/Schermafbeelding_2020-05-01_om_12.17.07%201.png](Untitled/Schermafbeelding_2020-05-01_om_12.17.07%201.png)
 
 ![Untitled/Filter_Page.gif](Untitled/Filter_Page.gif)
 
-## Sub pages
+### Sub pages
 
 ![Untitled/Schermafbeelding_2020-05-01_om_11.48.01.png](Untitled/Schermafbeelding_2020-05-01_om_11.48.01.png)
 
-## Timeline
+### Timeline
 
 ![Untitled/Schermafbeelding_2020-05-01_om_12.18.40.png](Untitled/Schermafbeelding_2020-05-01_om_12.18.40.png)
 
@@ -265,15 +265,15 @@ Complete website:
 
 ![Untitled/Website_Complete.gif](Untitled/Website_Complete.gif)
 
-### **Outcome Links**
+#### **Outcome Links**
 
 [Website](https://sachavanalfen.github.io/transcoding/web/index.html)
 
-# **Conclusion**
+## **Conclusion**
 
 I hope that with my project I managed to get a few steps closer to archival resilience. It was a nice process in which I went in a few different directions but in the end decide to choose for one platform. By working on this project my enthusiasm for stamps grew so much that I decided to start my own stamp collection. I am already the owner of a part of the collection of stamps that was published in Iran during the Iran-Iraq war!
 
-## **Bibliography**
+### **Bibliography**
 
 <a name="footnote-1">**[1]**</a>: Collection of the Eight Years War of Iran-Iraq (1980-1988): Collection of 114 Stamps of the Eight Years War of Iran - Iraq. Enclosed an Explanation By Najmuddin Kawyani and a Copy of the Catalogue of the Stamps. 2004. [Accessed 5 February 2020]
 
