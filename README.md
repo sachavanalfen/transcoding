@@ -1,4 +1,4 @@
-[<img src="Banner.gif">](#)
+[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Banner.gif" width="100%">](#)
 # **LICK'EM STICK'EM**
 
 ### **Table of Contents**
