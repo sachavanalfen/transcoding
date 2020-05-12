@@ -35,9 +35,7 @@ Collection of 114 stamps of the eight years war of Iran - Iraq. During the war t
 | **Materials** | Paper, Velvet
 | **Date** | 1980-1988
 | **Published** | 2004
-|[<img src="https://github.com/sachavanalfen/transcoding/raw/master/Untitled/IMG_1435.jpg" width="70%">](#)| Collection of 114 stamps of the eight years war of Iran - Iraq, bundled in a green velvet album(+/-A5) with an embroidered emblem of the Revolutionary Guard. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps. 
-
-
+|![IMG_1435.jpg](https://github.com/sachavanalfen/transcoding/raw/master/Untitled/IMG_1435.jpg")| Collection of 114 stamps of the eight years war of Iran - Iraq, bundled in a green velvet album(+/-A5) with an embroidered emblem of the Revolutionary Guard. Enclosed an explanation by Najmuddin Kawyani and a copy of the catalogue of the stamps. 
 
 ## **Research**
 
