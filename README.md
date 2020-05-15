@@ -187,6 +187,8 @@ The aim is to make sure the user gains more knowledge about the stamps as a coll
 I divided the page in two. Both of the sides you can scroll separately from each other. I looked up important event in/related to Iran in between 1975 and 2000. I order both the stamps and the events in a chronological way and placed them in the separate sides.
 [<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG6.png" width="100%">](#)
 
+[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Timeline.gif" width="100%">](#)
+
 ### **Tools**
 
 Excel, HTML, JavaScript
@@ -253,8 +255,6 @@ This website, where all of my transcoding’s come together, functions as a guid
 
 ### Timeline
 [<img src="https://github.com/sachavanalfen/transcoding/blob/master/Schermafbeelding_2020-05-01_om_12.18.40.png" width="100%">](#)
-
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Timeline.gif" width="100%">](#)
 
 Complete website:
 [<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Website_Complete.gif" width="100%">](#)
