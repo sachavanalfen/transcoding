@@ -244,9 +244,7 @@ While is was working on this project I went in completely different directions. 
 This website, where all of my transcoding’s come together, functions as a guide to understand the collection of stamps, together with the events portrayed on them, better. It allows the user to see the stamps in different environments and to filter them in different ways. The user can narrate him/her-self through all of the information in the way they want. It is supposed to be an objective tool without it making any assumptions. It is up to the user to discover and hopefully gain more knowledge. The idea is that is functions a mini archive of the stamps. Story telling is something that inspired me and I wanted my website to have this feeling. All of the stamps tell a different story, but with all of them together they tell an even bigger story. 
 
 ### Start page
-<kbd>
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website10.png" width="100%">](#)
-</kbd>      
+[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website10.png" width="100%">](#)    
 [<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website11.png" width="100%">](#)
 
 ### Main page
