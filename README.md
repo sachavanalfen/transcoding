@@ -1,5 +1,5 @@
 [<img src="https://github.com/sachavanalfen/transcoding/blob/master/Banner.gif" width="100%">](#)
-# **LICK'EM STICK'EM**
+# **Lick'em Stick'em**
 
 ### **Table of Contents**
 
