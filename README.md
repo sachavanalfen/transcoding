@@ -56,7 +56,7 @@ During the war the Islamic Republic of Iran published a series of postal stamps 
 
 Before doing more research outside of the IISG, I wanted to find out first what more the archive had to offer on the same topic. While I was doing some more digging I found out about this map containing lots of small cards (similar to postcards). They where published in Iran during the war period. Since they look very much like postcards there is another connection between the two, because what is a postcards without postage stamp?  
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG3.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG3.png" width="100%">
 
 ### The stamp as a political messenger
 
@@ -76,7 +76,7 @@ To continue my research I though it could be interesting to look at other countr
 
 China, Russia and East Germany are or were communist regimes. The totalitarian states most often uses postage stamps as potent messengers of policy. Established democratic states do not send over political messages. <sup>[[4]](#footnote-4)</sup>
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG15.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG15.png" width="100%">
 
 **1:** Russia, 1959. Chemist from the Seven Year Plan. The chemist is working under a forceful figure 7 containing an upward arrow proclaiming a 300% target rise in chemicals production between 1958 and 1965.
 
@@ -130,33 +130,33 @@ To start I used the google translate app to translate the stamp together with so
 
 Google translate:
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG13.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG14.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG13.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG14.png" width="100%">
 
 Categorizing by year and tags:
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG19.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG19.png" width="100%">
 
 Excel sheet:
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-02_om_16.30.04.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-02_om_16.30.04.png" width="100%">
 
 First sketches Indesign:
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG18.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG18.png" width="100%">
 
 first result HTML Page:
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-01_om_12.17.07.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-01_om_12.17.07.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG5.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Filter_Page.gif" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG5.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Filter_Page.gif" width="100%">
 
 ### **Results**
 
 Result HTML page:
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website1.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website1.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website5.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website5.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website6.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website6.png" width="100%">
 
 
 ### **Source Links**
@@ -186,9 +186,9 @@ The aim is to make sure the user gains more knowledge about the stamps as a coll
 ### **Methods**
 
 I divided the page in two. Both of the sides you can scroll separately from each other. I looked up important event in/related to Iran in between 1975 and 2000. I order both the stamps and the events in a chronological way and placed them in the separate sides.
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG6.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG6.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Timeline.gif" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Timeline.gif" width="100%">
 
 ### **Tools**
 
@@ -209,23 +209,23 @@ The aim is to make sure the user gains more knowledge about the stamps as a coll
 ### **Methods**
 
 I used the translations of the stamp to make a few stamps with only English text. I removed all the imagery of the stamp and replaced all the text with English text. Next to this I made a few more sketches that could have been part of this project but I in the end decided not not use. In the first ones you see I removed all the text and the violent objects/imagery to make them as neutral as possible. It was a nice exercise to work on and I do think they are intersting to look at, especially next to each other, but I did not know how this would add something to my pages. Out of one of the edited stamp I made a flag, which I decided not to use, it is just part of my process.
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG2.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG2.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG3.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README2_IMG3.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG21.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG21.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG20.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG20.png" width="100%">
 
 Text only stamps (English):
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG11.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG11.png" width="100%">
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG12.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG12.png" width="100%">
 
 First examples of my sub pages, the layout is not done yet:
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG8.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG8.png" width="100%">
 
 ### **Tools**
 
@@ -244,27 +244,27 @@ While is was working on this project I went in completely different directions. 
 This website, where all of my transcoding’s come together, functions as a guide to understand the collection of stamps, together with the events portrayed on them, better. It allows the user to see the stamps in different environments and to filter them in different ways. The user can narrate him/her-self through all of the information in the way they want. It is supposed to be an objective tool without it making any assumptions. It is up to the user to discover and hopefully gain more knowledge. The idea is that is functions a mini archive of the stamps. Story telling is something that inspired me and I wanted my website to have this feeling. All of the stamps tell a different story, but with all of them together they tell an even bigger story. 
 
 ### Start page
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out1.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out2.png" width="100%">](#)  
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out1.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out2.png" width="100%">  
 
 ### Main page
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website1.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website5.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website6.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out3.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out4.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website1.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website5.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website6.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out3.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out4.png" width="100%">
 
 ### About page
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out8.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out8.png" width="100%">](#)
 
 ### Sub pages
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out5.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out6.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out7.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out5.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out6.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out7.png" width="100%">](#)
 
 ### Timeline
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out10.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out11.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out10.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/out11.png" width="100%">](#)
 
 #### **Outcome Links**
 
