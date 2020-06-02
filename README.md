@@ -49,8 +49,8 @@ The eight year long Iran - Iraq war was the bloodiest in its kind and most destr
 
 During the war the Islamic Republic of Iran published a series of postal stamps related to the war, and used them to show the logic of the war and to attract public support. The islamic Republic of Iran printed a lot of stamps during the Iran - Iraq war. The stamps of the Iran - Iraq war period shows the history and miser ability of war in a miracle way. Turning pages of these collections in fact shows the pictorial history pages of the war is being seen. The collection of Iran - Iraq war stamps contains 114 pieces which were printed and published by "the organization for preserving and publishing of relics and values of the Holy Defense Army" inform.<sup>[[1]](#footnote-1)</sup>
 
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG.png" width="100%">](#)
-[<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG2.png" width="100%">](#)
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG.png" width="100%">
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG2.png" width="100%">
 
 ### **Related artefacts at the IISG**
 
