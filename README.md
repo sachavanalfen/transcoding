@@ -140,24 +140,10 @@ Categorizing by year and tags:
 Excel sheet:
 <img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-02_om_16.30.04.png" width="100%">
 
-First sketches Indesign:
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG18.png" width="100%">
-
-first result HTML Page:
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Schermafbeelding_2020-05-01_om_12.17.07.png" width="100%">
-
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG5.png" width="100%">
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/Filter_Page.gif" width="100%">
-
 ### **Results**
 
-Result HTML page:
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website1.png" width="100%">
-
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website5.png" width="100%">
-
-<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/website6.png" width="100%">
-
+First sketches Indesign:
+<img src="https://github.com/sachavanalfen/transcoding/blob/master/Untitled/README_IMG18.png" width="100%">
 
 ### **Source Links**
 
